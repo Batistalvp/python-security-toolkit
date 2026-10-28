@@ -1,0 +1,20 @@
+2026-03-10 08:01:12 INFO web: application started on port 8080
+2026-03-10 08:02:33 INFO auth: Successful login for user alice from 192.168.1.10
+2026-03-10 08:03:01 INFO web: GET /dashboard from 192.168.1.10
+2026-03-10 08:04:15 ERROR auth: Failed login for user admin from 203.0.113.50
+2026-03-10 08:04:18 ERROR auth: Failed login for user admin from 203.0.113.50
+2026-03-10 08:04:21 ERROR auth: Failed login for user root from 203.0.113.50
+2026-03-10 08:04:24 ERROR auth: Failed login for user root from 203.0.113.50
+2026-03-10 08:04:27 ERROR auth: Failed login for user admin from 203.0.113.50
+2026-03-10 08:05:40 INFO auth: Successful login for user bob from 10.0.0.25
+2026-03-10 08:06:02 WARN web: Slow response on /reports (3200ms)
+2026-03-10 08:07:11 ERROR db: connection timeout to database-lab
+2026-03-10 08:08:44 INFO web: GET /health from 127.0.0.1
+2026-03-10 08:09:10 ERROR auth: Failed login for user guest from 198.51.100.20
+2026-03-10 08:09:12 ERROR auth: Failed login for user guest from 198.51.100.20
+2026-03-10 08:10:01 INFO backup: daily backup completed
+2026-03-10 08:11:22 WARN cloud: storage bucket lab-files has public-read enabled
+2026-03-10 08:12:03 INFO auth: Successful login for user alice from 192.168.1.10
+2026-03-10 08:13:30 ERROR firewall: blocked outbound connection to 203.0.113.50
+2026-03-10 08:14:05 ERROR auth: Failed login for user admin from 203.0.113.50
+2026-03-10 08:15:00 INFO web: application still running

@@ -1,0 +1,8 @@
+# Este projeto usa apenas a biblioteca padrão do Python.
+# Nenhum pacote externo é obrigatório para executar as ferramentas
+# ou os testes (unittest).
+#
+# Para evoluções futuras, você poderá adicionar dependências aqui, por exemplo:
+# boto3
+# azure-identity
+# docker

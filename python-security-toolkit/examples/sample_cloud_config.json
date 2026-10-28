@@ -1,0 +1,12 @@
+{
+    "service_name": "laboratorio-ads",
+    "environment": "estudo",
+    "storage_public": true,
+    "encryption_enabled": false,
+    "authentication_enabled": false,
+    "mfa_enabled": false,
+    "open_ports": [22, 80, 3389, 8080],
+    "allowed_networks": ["0.0.0.0/0"],
+    "logging_enabled": false,
+    "backup_enabled": true
+}
